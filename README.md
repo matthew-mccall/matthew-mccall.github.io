@@ -1,3 +1,6 @@
+layout: page
+title: "docs.mmccall.dev"
+
 ## Hi there 👋
 
 My name is Matthew McCall, I am currently a C++ developer working on game engines. Welcome to my Documentation page! Here, you can find the documentation for most of my projects!
