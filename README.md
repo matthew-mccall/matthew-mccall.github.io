@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Matthew McCall, I am currently a C++ developer working on game engines!
+My name is Matthew McCall, I am currently a C++ developer working on game engines. Welcome to my Documentation page! Here, you can find the documentation for most of my projects!
 
 ### Docs
-- Silicon Engine: https://mxtt-mmxix.github.io/silicon/html
+- Silicon Engine: https://docs.mmccall.dev/silicon
 
 ### Self Promos
 - Website: https://mmccall.dev
@@ -12,7 +12,6 @@ My name is Matthew McCall, I am currently a C++ developer working on game engine
 - Twitter: [@__mmccall](https://twitter.com/__mccall)
 - Twitch: [mmapptv](https://twitch.tv/mmapptv)
 - YouTube: [Matthew McCall](https://www.youtube.com/channel/UCW_31sZAGpg8DTO_aM09oeQ)
-- GitLab: [mmapp](https://gitlab.com/_mmapp)
 
 ### Certs
 [<img src="aws-certified-cloud-practitioner.png" width="100" height="100">](https://www.credly.com/badges/c769cb75-d5af-47f5-9d23-a86875acbdf0/public_url)
