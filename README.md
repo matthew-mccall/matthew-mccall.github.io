@@ -3,7 +3,6 @@
 My name is Matthew McCall, I am currently a C++ developer working on game engines. Welcome to my Documentation page! Here, you can find the documentation for most of my projects!
 
 ### Docs
-- Silicon Engine: https://docs.mmccall.dev/Silicon
 - Oasis: https://docs.mmccall.dev/Oasis
 - superround: https://docs.mmccall.dev/superround
 
