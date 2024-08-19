@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matthew McCall, I am currently a C++ developer working on game engines. Welcome to my Documentation page! Here, you can find the documentation for most of my projects!
+My name is Matthew McCall, I am currently a C++ developer working on game engines. Welcome to my Documentation page! (Not to be confused with my actual website) Here, you can find the documentation for most of my projects!
 
 ### Docs
 - Oasis: https://docs.mmccall.dev/Oasis
